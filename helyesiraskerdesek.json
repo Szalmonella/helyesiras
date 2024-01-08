@@ -1,0 +1,97 @@
+[{"question":
+"_ukas, _uk, _ukaszt. J-vel vagy Ly-nal írjuk?",
+"category":"j/ly",
+"answer":"Ly",
+"choices":["J","Ly"]
+},
+{"question":
+"J-vel vagy ly-nal fo_ik a fo_ó?",
+"category":"j/ly",
+"answer":"ly",
+"choices":["j","ly"]
+},
+{"question":
+"J-vel vagy ly-nal írjuk a következő madarak nevét? Harká_, bago_, fogo_",
+"category":"j/ly",
+"answer":"ly",
+"choices":["j","ly"]
+},
+{"question":
+"J-vel vagy ly-nal írjuk ezeket a szavakat? Óha_, sóha_",
+"category":"j/ly",
+"answer":"j",
+"choices":["j","ly"]
+},
+{"question":
+"J-vel vagy ly-nal írjuk ezeket a szavakat? kara_, ola_, tala_",
+"category":"j/ly",
+"answer":"j",
+"choices":["j","ly"]
+},
+{"question":
+"J-vel vagy ly-nal írjuk? Bó_a (vízi jelzőeszköz), cser_e, hé_a (madár), per_e (fű)",
+"category":"j/ly",
+"answer":"j",
+"choices":["j","ly"]
+},
+{"question":
+"J-vel vagy ly-nal írjuk? He_ (főnév), mé_, mo_, sú_, sü_",
+"category":"j/ly",
+"answer":"ly",
+"choices":["j","ly"]
+},
+{"question":
+"A névmásokat j-vel vagy ly-nal írjuk? I_, i_en, me_, ame_, mi_, mi_en, o_, o_an, ame_ik ",
+"category":"j/ly",
+"answer":"ly",
+"choices":["j","ly"]
+},
+{"question":
+"J-vel vagy ly-nal írjuk? Moso_, osztá_, pehe_",
+"category":"j/ly",
+"answer":"ly",
+"choices":["j","ly"]
+},
+{"question":
+"J-vel vagy ly-nal írjuk? Te_, va_, sa_t, te_föl, _oghurt",
+"category":"j/ly",
+"answer":"j",
+"choices":["j","ly"]
+},
+{"question":
+"J-vel vagy ly-nal írjuk? Akadá_, tava_, tartá_",
+"category":"j/ly",
+"answer":"ly",
+"choices":["j","ly"]
+},
+{"question":
+"J-vel vagy ly-nal írjuk? Fe_, szá_, ",
+"category":"j/ly",
+"answer":"j",
+"choices":["j","ly"]
+},
+{"question":
+"",
+"category":"j/ly",
+"answer":"",
+"choices":["",""]
+},
+{"question":
+"",
+"category":"j/ly",
+"answer":"",
+"choices":["",""]
+},
+{"question":
+"",
+"category":"j/ly",
+"answer":"",
+"choices":["",""]
+},
+{"question":
+"",
+"category":"j/ly",
+"answer":"",
+"choices":["",""]
+}
+]
