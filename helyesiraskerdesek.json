@@ -69,5 +69,17 @@
 "category":"j/ly",
 "answer":"j",
 "choices":["j","ly"]
+},
+{"question":
+"T vagy tt?\nAnna a boltban banánt ve_",
+"category":"t/tt",
+"answer":"tt",
+"choices":["t","tt"]
+},
+{"question":
+"T vagy tt?\nAnna magot ve_ a földbe.",
+"category":"t/tt",
+"answer":"t",
+"choices":["t","tt"]
 }
 ]
