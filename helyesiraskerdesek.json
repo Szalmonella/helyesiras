@@ -267,23 +267,5 @@
 "category":"mássalhangzók írása",
 "answer":"jegygyűrű, fénynyaláb, díszszemle",
 "choices":["kellett, kattan, jobban","jegygyűrű, fénynyaláb, díszszemle"]
-},
-{"question":
-"Miért is írjuk betűkettőzéssel ezeket a kétjegyű mássalhangzókat?\njegygyűrű, fénynyaláb, díszszemle",
-"category":"mássalhangzók írása",
-"answer":"Azért, mert ezek összetett szavak.",
-"choices":["Azért, mert ezek összetett szavak.","Azért, mert ezek a szavak egy szótagból állnak."]
-},
-{"question":
-"T vagy tt?\nAnna a boltban banánt ve_",
-"category":"t/tt",
-"answer":"tt",
-"choices":["t","tt"]
-},
-{"question":
-"T vagy tt?\nAnna magot ve_ a földbe.",
-"category":"t/tt",
-"answer":"t",
-"choices":["t","tt"]
 }
 ]
