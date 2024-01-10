@@ -320,7 +320,7 @@
 "Melyik szóval egészítenéd ki a mondatot?\nÍgy történt az _____.",
 "category":"rövid/hosszú mássalhangzó",
 "answer":"eset",
-"choices":["eset","eset"]
+"choices":["eset","esett"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nHova _____ a barátod?",
