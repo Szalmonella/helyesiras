@@ -131,12 +131,6 @@
 "choices":["bal","bál"]
 },
 {"question":
-"Melyik szóval egészítenéd ki a mondatot?\nÚj költeményem címe: ___ a szerelemről.",
-"category":"rövid/hosszú magánhangzó",
-"answer":"óda",
-"choices":["oda","óda"]
-},
-{"question":
 "Melyik szóval egészítenéd ki a mondatot?\nÚj költeményem címe: ___ a szerelemhez.",
 "category":"rövid/hosszú magánhangzó",
 "answer":"Óda",
@@ -227,19 +221,19 @@
 "choices":["b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z","cs, dz, gy, ly, ny, sz, ty, zs", "dzs"]
 },
 {"question":
-"Melyek szavak tartalmaznak csak egyjegyű mássalhangzókat?",
+"Mely szavak tartalmaznak csak egyjegyű mássalhangzókat?",
 "category":"mássalhangzók írása",
 "answer":"ménes, lovas, fehér",
 "choices":["ménes, lovas, fehér","csokoládé, egészség, szépség", "lándzsa, dzsem, dzsungel"]
 },
 {"question":
-"Melyek szavak tartalmaznak csak kétjegyű mássalhangzókat?",
+"Mely szavak tartalmaznak csak kétjegyű mássalhangzókat?",
 "category":"mássalhangzók írása",
 "answer":"szesz, szösz",
 "choices":["sós, kék","szesz, szösz"]
 },
 {"question":
-"Melyek szavak tartalmaznak háromjegyű mássalhangzót?",
+"Mely szavak tartalmaznak háromjegyű mássalhangzót?",
 "category":"mássalhangzók írása",
 "answer":"lándzsa, dzsem, dzsungel",
 "choices":["majom, bohóc, lekvár","csoki, fényes, súlyos", "lándzsa, dzsem, dzsungel"]
@@ -277,7 +271,7 @@
 {"question":
 "A többjegyű mássalhangzókat egyszerűsítve kettőzzük\nMelyik példa mutatja ezt?",
 "category":"rövid/hosszú mássalhangzó",
-"answer":"asszony",
+"answer":"asszonnyal",
 "choices":["asszonnyal","asz-szony-nyal (elválasztás)"]
 },
 {"question":
@@ -320,7 +314,7 @@
 "Melyik szóval egészítenéd ki a mondatot?\nTegnap _____ az eső.",
 "category":"rövid/hosszú mássalhangzó",
 "answer":"esett",
-"choices":["eset","eset"]
+"choices":["eset","esett"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nÍgy történt az _____.",
@@ -347,7 +341,7 @@
 "choices":["hason","hasson"]
 },
 {"question":
-"Melyik szóval egészítenéd ki a mondatot?\nMegvártuk, hogy _____ a gyógyszer.",
+"Melyik szóval egészítenéd ki a mondatot?\nMegvártuk, hogy a gyógyszer _____.",
 "category":"rövid/hosszú mássalhangzó",
 "answer":"hasson",
 "choices":["hason","hasson"]
@@ -365,15 +359,15 @@
 "choices":["fejel","fejjel"]
 },  
 {"question":
-"T vagy tt?\nAnna a boltban banánt ve_",
+"T vagy tt?\nAnna a boltban banánt ______",
 "category":"t/tt",
-"answer":"tt",
-"choices":["t","tt"]
+"answer":"vett",
+"choices":["vet","vett"]
 },
 {"question":
-"T vagy tt?\nAnna magot ve_ a földbe.",
+"T vagy tt?\nAnna magot _____ a földbe.",
 "category":"t/tt",
-"answer":"t",
-"choices":["t","tt"]
+"answer":"vet",
+"choices":["vet","vett"]
 }  
 ]
