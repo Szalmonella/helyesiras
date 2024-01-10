@@ -71,6 +71,210 @@
 "choices":["j","ly"]
 },
 {"question":
+"A rövid magánhangzókat jelölő hét betűt pont nélkül, illetőleg egy vagy két ponttal írjuk.\n Melyek a rövid magánhangzók?",
+"category":"magánhangzók írása",
+"answer":"a, e, o, u; i, ö, ü",
+"choices":["a, e, o, u; i, ö, ü","á, é, í, ó, ú; ő, ű"]
+},
+{"question":
+"A hosszú magánhangzókat jelölő hét betűre egy vagy két vonást teszünk.\n Melyek a hosszú magánhangzók?",
+"category":"magánhangzók írása",
+"answer":"á, é, í, ó, ú; ő, ű",
+"choices":["a, e, o, u; i, ö, ü","á, é, í, ó, ú; ő, ű"]
+},
+{"question":
+"Mely szavak tartalmaznak csak rövid magánhangzókat?",
+"category":"magánhangzók írása",
+"answer":"puha, tiszta, göndör",
+"choices":["puha, tiszta, göndör","puszta, pálya, korong"]
+},
+{"question":
+"Mely szavak tartalmaznak csak hosszú magánhangzókat?",
+"category":"magánhangzók írása",
+"answer":"bőr, kémény, hús",
+"choices":["vég, bőrönd, bélyeg","bőr, kémény, hús"]
+},
+{"question":
+"Mely szavak tartalmaznak csak rövid magánhangzókat?",
+"category":"magánhangzók írása",
+"answer":"ötöt, hatot, hetet, nyolcat",
+"choices":["egyet, kettőt, hármat, négyet","ötöt, hatot, hetet, nyolcat"]
+},
+{"question":
+"Mely szavak tartalmaznak rövid és hosszú magánhangzókat vegyesen?",
+"category":"magánhangzók írása",
+"answer":"rétes, mézes, méreg",
+"choices":["pörög, forog, dörög","rétes, mézes, méreg","kérő, szőlő, fényév"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEz a feladat ______ dió.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"kemény",
+"choices":["kemény","kémény"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEz a ______ bedugult.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"kémény",
+"choices":["kemény","kémény"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nA ___ oldalon van a kormány.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"bal",
+"choices":["bal","bál"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nA ___ nagyon puccos.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"bál",
+"choices":["bal","bál"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nÚj költeményem címe: ___ a szerelemről.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"óda",
+"choices":["oda","óda"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nÚj költeményem címe: ___ a szerelemhez.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"Óda",
+"choices":["Oda","Óda"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\n___ kell mennem.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"Oda",
+"choices":["Oda","Óda"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEz a néni egy kicsit _____, már 85 éves.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"koros",
+"choices":["koros","kóros"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEz a viselkedés _____, vagyis nem egészséges.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"kóros",
+"choices":["koros","kóros"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEz az ember ____ rabló is lehet.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"akár",
+"choices":["akar","akár"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nMit ____ ez a furcsa ember?",
+"category":"rövid/hosszú magánhangzó",
+"answer":"akar",
+"choices":["akar","akár"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\n__ is meghívták a szülinapra",
+"category":"rövid/hosszú magánhangzó",
+"answer":"Őt",
+"choices":["Öt","Őt"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\n__ kört futottak.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"Öt",
+"choices":["Öt","Őt"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nA szakember levelet __.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"írt",
+"choices":["irt","írt"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nA szakember poloskát __.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"irt",
+"choices":["irt","írt"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEz a _____ nagyon aranyos.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"veréb",
+"choices":["veréb","véreb"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEz a _____ nagyon harapós.",
+"category":"rövid/hosszú magánhangzó",
+"answer":"véreb",
+"choices":["veréb","véreb"]
+},
+{"question":
+"Melyek az egyjegyű mássalhangzók?",
+"category":"mássalhangzók írása",
+"answer":"b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z",
+"choices":["b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z"," cs, dz, gy, ly, ny, sz, ty, zs", "dzs"]
+},
+{"question":
+"Melyek a kétjegyű mássalhangzók?",
+"category":"mássalhangzók írása",
+"answer":"cs, dz, gy, ly, ny, sz, ty, zs",
+"choices":["b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z","cs, dz, gy, ly, ny, sz, ty, zs", "dzs"]
+},
+{"question":
+"Melyek a háromjegyű mássalhangzók?",
+"category":"mássalhangzók írása",
+"answer":"dzs",
+"choices":["b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z","cs, dz, gy, ly, ny, sz, ty, zs", "dzs"]
+},
+{"question":
+"Melyek szavak tartalmaznak csak egyjegyű mássalhangzókat?",
+"category":"mássalhangzók írása",
+"answer":"ménes, lovas, fehér",
+"choices":["ménes, lovas, fehér","csokoládé, egészség, szépség", "lándzsa, dzsem, dzsungel"]
+},
+{"question":
+"Melyek szavak tartalmaznak csak kétjegyű mássalhangzókat?",
+"category":"mássalhangzók írása",
+"answer":"szesz, szösz",
+"choices":["sós, kék","szesz, szösz"]
+},
+{"question":
+"Melyek szavak tartalmaznak háromjegyű mássalhangzót?",
+"category":"mássalhangzók írása",
+"answer":"lándzsa, dzsem, dzsungel",
+"choices":["majom, bohóc, lekvár","csoki, fényes, súlyos", "lándzsa, dzsem, dzsungel"]
+},
+{"question":
+"Miért van az AD és HOZ szavak végén csak 1 darab egyjegyű mássalhangzó az alábbi mondatokban?\nAd egy almát. Hoz egy labdát.)",
+"category":"mássalhangzók írása",
+"answer":"Mert kijelentő módban vannak az igék.",
+"choices":["Mert kijelentő módban vannak az igék.","Mert felszólító módban vannak az igék."]
+},
+{"question":
+"Miért van az ADD és HOZZ szavak végén dupla egyjegyű mássalhangzó az alábbi mondatokban?\nAdd ide az almát! Hozz egy labdát!)",
+"category":"mássalhangzók írása",
+"answer":"Mert felszólító módban vannak az igék.",
+"choices":["Mert kijelentő módban vannak az igék.","Mert felszólító módban vannak az igék."]
+},
+{"question":
+"A mássalhangzók hosszúságát betűkettőzéssel jelöljük. – Az egyjegyűeket kétszer írjuk le. Hogyan is?",
+"category":"mássalhangzók írása",
+"answer":"bb, cc, dd, ff, gg, hh, jj, kk, ll, mm, nn, pp, rr, ss, tt, vv, zz",
+"choices":["b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z","bb, cc, dd, ff, gg, hh, jj, kk, ll, mm, nn, pp, rr, ss, tt, vv, zz"]
+},
+{"question":
+"A mássalhangzók hosszúságát betűkettőzéssel jelöljük. – A többjegyűeket az összetett szavak határán kettőzzük. Hogyan is?",
+"category":"mássalhangzók írása",
+"answer":"jegygyűrű, fénynyaláb, díszszemle",
+"choices":["kellett, kattan, jobban","jegygyűrű, fénynyaláb, díszszemle"]
+},
+{"question":
+"Miért is írjuk betűkettőzéssel ezeket a kétjegyű mássalhangzókat?\njegygyűrű, fénynyaláb, díszszemle",
+"category":"mássalhangzók írása",
+"answer":"Azért, mert ezek összetett szavak.",
+"choices":["Azért, mert ezek összetett szavak.","Azért, mert ezek a szavak egy szótagból állnak."]
+}  
+{"question":
 "T vagy tt?\nAnna a boltban banánt ve_",
 "category":"t/tt",
 "answer":"tt",
