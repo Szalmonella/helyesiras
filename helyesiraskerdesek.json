@@ -275,6 +275,96 @@
 "choices":["Azért, mert ezek összetett szavak.","Azért, mert ezek a szavak egy szótagból állnak."]
 },
 {"question":
+"A többjegyű mássalhangzókat egyszerűsítve kettőzzük\nMelyik példa mutatja ezt?",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"asszony",
+"choices":["asszonnyal","asz-szony-nyal (elválasztás)"]
+},
+{"question":
+"Melyik szóban nincs hosszú mássalhangzó?",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"tolat",
+"choices":["vessző","tollas","tolat"]
+},
+{"question":
+"Melyik szóban nincs hosszú mássalhangzó?",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"csendül",
+"choices":["pottyan","csendül","loccsan","robban"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEgy _____ úszik a vízben",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"hal",
+"choices":["hal","hall"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEz az ember nem _____ jól, beszélj hozzá hangosan!",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"hall",
+"choices":["hal","hall"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\n_____ a parton várunk rád.",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"Lenn",
+"choices":["Len","Lenn"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nA kisvakond kedvenc növénye a _____.",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"len",
+"choices":["len","lenn"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nTegnap _____ az eső.",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"esett",
+"choices":["eset","eset"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nÍgy történt az _____.",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"eset",
+"choices":["eset","eset"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nHova _____ a barátod?",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"megy",
+"choices":["megy","meggy"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nÉrik a _____ a fán.",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"meggy",
+"choices":["megy","meggy"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nSzeretsz _____ aludni?",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"hason",
+"choices":["hason","hasson"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nMegvártuk, hogy _____ a gyógyszer.",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"hasson",
+"choices":["hason","hasson"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEz a focista mindig gólt _____.",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"fejel",
+"choices":["fejel","fejjel"]
+},
+{"question":
+"Melyik szóval egészítenéd ki a mondatot?\nEz a focista mindig _____ talál be a kapuba.",
+"category":"rövid/hosszú mássalhangzó",
+"answer":"fejjel",
+"choices":["fejel","fejjel"]
+},  
+{"question":
 "T vagy tt?\nAnna a boltban banánt ve_",
 "category":"t/tt",
 "answer":"tt",
