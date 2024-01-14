@@ -357,6 +357,186 @@
 "category":"rövid/hosszú mássalhangzó",
 "answer":"fejjel",
 "choices":["fejel","fejjel"]
+},
+{"question":
+"A szavak végén legtöbbször rövid i van.\nMik a kivételek?; Peti, Mari; stb. – Van azonban néhány hosszú í-re végződő szavunk is: sí, nyí, rí, csicsí, gyí, kikirikí",
+"category":"szótövek",
+"answer":"",
+"choices":["kocsi, kifli, bácsi, néni, kicsi, nini","Peti, Mari","sí, nyí, rí, csicsí, gyí, kikirikí"]
+},
+{"question":
+"Hosszú ú, ű van a legtöbb főnév végén:\nágyú, borjú, faggyú, fiú, gyanú, háború, kátyú, koszorú, szú, tanú, varjú; betű, fésű, gyepű, gyűrű, gyűszű, mű, seprű.\nIgaz vagy hamis?",
+"category":"szótövek",
+"answer":"Igaz",
+"choices":["Igaz","Hamis"]
+},
+{"question":
+"Hosszú ú, ű van a legtöbb főnév végén, de vannak kivételek:\nadu, alku, áru, bábu, batyu, daru, falu, gyalu, hamu, hindu, kapu, lapu, saru, satu, szaru, zsalu,\nbürü, eskü, menü, revü, ürü.\nIgaz vagy hamis?",
+"category":"szótövek",
+"answer":"Igaz",
+"choices":["Igaz","Hamis"]
+},
+{"question":
+"A melléknevek végén mindig hosszú ú, ű van:\ndomború, homorú, hosszú, savanyú, szomorú; gömbölyű, gyönyörű, könnyű, nagyszerű, szörnyű.\nIgaz vagy hamis?",
+"category":"szótövek",
+"answer":"Igaz",
+"choices":["Igaz","Hamis"]
+},
+{"question":
+"Vannak olyan szavaink, amelyeket kétféle alakban használunk, de ugyanazt jelentik.\nMelyik a kivétel?",
+"category":"szótövek",
+"answer":"őrül - örül",
+"choices":["csepeg - csöpög","seprű - söprű","őrül - örül"]
+},
+{"question":
+"Vannak olyan szavaink, amelyeket kétféle alakban használunk, de ugyanazt jelentik.\nMelyik a kivétel?",
+"category":"szótövek",
+"answer":"kerek - körök",
+"choices":["hova - hová","kerek - körök","lány - leány","gyerek - gyermek"]
+},
+{"question":
+"A ZSÍR hosszú Í-vel írandó. A tőszó melyik változatában vált rövid I-re?",
+"category":"szótövek",
+"answer":"zsiradék",
+"choices":["zsíros","zsiradék", "zsírt"]
+},
+{"question":
+"A TÍZ hosszú Í-vel írandó. A tőszó mely változatokban vált rövid I-re?",
+"category":"szótövek",
+"answer":"tized, tizen-",
+"choices":["tized, tizen- (mint tizenegy)","tízet, tízen (tízen voltak)"]
+},
+{"question":
+"A HÚSZ hosszú Ú-val írandó. A tőszó mely változatokban vált rövid U-ra?",
+"category":"szótövek",
+"answer":"huszadik, huszon-",
+"choices":["húszat, húszas","huszadik, huszon-"]
+},
+{"question":
+"Az ÍR szó hosszú Í-vel írandó. A tőszó mely változatokban vált rövid I-re?",
+"category":"szótövek",
+"answer":"iroda, irodalom, irat (főnév, mint ügyirat)",
+"choices":["iroda, irodalom, irat (főnév, mint ügyirat)", "írás, írat (ige, mint leíratja a szavakat)"]
+},
+{"question":
+"A BÚJ szó hosszú Ú-val írandó. A tőszó melyik változatokban vált rövid U-ra?",
+"category":"szótövek",
+"answer":"bujkál, bujdosó",
+"choices":["bújik, bújjon","bújócska, bújtat","bujkál, bujdosó"]
+},
+{"question":
+"A DŰL szó hosszú Ű-vel írandó. A tőszó melyik változatokban vált rövid Ü-re?",
+"category":"szótövek",
+"answer":"düledezik, dülöngél, dülleszt",
+"choices":["dűlt, dűlve, dűlő","düledezik, dülöngél, dülleszt"]
+},
+{"question":
+"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A KÉZ-ből származó szavak mikor váltanak E-re?",
+"category":"szótövek",
+"answer":"kezet, kezek, kezes, kezünk",
+"choices":["kézben, kézre, kézi","kezet, kezek, kezes, kezünk"]
+},
+{"question":
+"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A VÍZ-ből származó szavak mikor váltanak I-re?",
+"category":"szótövek",
+"answer":"vizet, vizek, vizes, vizünk",
+"choices":["vízben, vízre, vízi","vizet, vizek, vizes, vizünk"]
+},
+{"question":
+"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. Az ÚT-ból származó szavak mikor váltanak U-ra?",
+"category":"szótövek",
+"answer":"utat, utak, utas, utunk",
+"choices":["útban, útra, úti","utat, utak, utas, utunk"]
+},
+{"question":
+"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A TŰZ-ből származó szavak mikor váltanak Ü-re?",
+"category":"szótövek",
+"answer":"tüzet, tüzek, tüzes, tüzünk",
+"choices":["tűzben, tűzre, tűzi","tüzet, tüzek, tüzes, tüzünk"]
+},
+{"question":
+"A szóvégi a és e csak néhány toldalék előtt marad rövid, a legtöbb toldalék előtt á-ra, illetőleg é-re változik. Az ANYA szótőből melyik szó nem vált Á-ra?",
+"category":"szótövek",
+"answer":"anyai",
+"choices":["anyai","anyátlan","anyával"]
+},
+{"question":
+"A szóvégi a és e csak néhány toldalék előtt marad rövid, a legtöbb toldalék előtt á-ra, illetőleg é-re változik. A ANYA szótőből melyik szó nem vált Á-ra?",
+"category":"szótövek",
+"answer":"lencseféle",
+"choices":["lencseféle","lencsét","lencsével"]
+},
+{"question":
+"Varjúk – varjak,\nzászlója – zászlaja,\nerdője – erdeje\nA szavak mindkét alakja helyes?",
+"category":"szótövek",
+"answer":"Igen",
+"choices":["Igen","Nem"]
+},
+{"question":
+"Varjúk – varjak,\nzászlója – zászlaja,\nerdője – erdeje\nA szavak mindkét alakja helyes?",
+"category":"szótövek",
+"answer":"Igen",
+"choices":["Igen","Nem"]
+},
+{"question":
+"lét – levet,\nszók – szavak,\nfaluk – falvak,\ntetűk – tetvek\nA szavak mindkét alakja helyes?",
+"category":"szótövek",
+"answer":"Igen",
+"choices":["Igen","Nem"]
+},
+{"question":
+"A ború, bosszú szavak végén levő hosszú Ú az -l képzős formában rövid U-ra vált:\nborul, bosszul.\nIgaz vagy hamis?",
+"category":"szótövek",
+"answer":"Igaz",
+"choices":["Igaz","Hamis"]
+},
+{"question":
+"A csepű, derű, fésű, hegedű, köpű, köszörű szavak végén levő hosszú Ű az -l képzős formában rövid Ü-ra vált:\ncsepül, derül, fésül, hegedül, köpül, köszörül.\nIgaz vagy hamis?",
+"category":"szótövek",
+"answer":"Igaz",
+"choices":["Igaz","Hamis"]
+},
+{"question":
+"A metsz, a látszik és a tetszik ige felszólító módú alakjait – a kétféle kiejtés miatt – vagy tssz, vagy ss betűkapcsolattal írjuk:\nmetssze és messe, látsszék és lássék, tetsszem és tessem.\nIgaz vagy hamis?",
+"category":"szótövek",
+"answer":"Igaz",
+"choices":["Igaz","Hamis"]
+},
+{"question":
+"Épít, építmény, tanít, tanító, buzdít, buzdítás, mozdít, mozdítva, állandósít, állandósítani\nMiért hosszú az Í ezekben a szavakban?",
+"category":"toldalékok írása",
+"answer":"Az -ít, a -dít és a -sít igeképzőket mindig hosszú Í-vel írjuk.",
+"choices":["Az -ít, a -dít és a -sít igeképzőket mindig hosszú Í-vel írjuk.","Az -ít, a -dít és a -sít főneveket mindig hosszú Í-vel írjuk."]
+},
+{"question":
+"I-vel vagy Í-vel írjuk?\nVis_t, lend_t, ord_t",
+"category":"toldalékok írása",
+"answer":"Í",
+"choices":["I","Í"]
+},
+{"question":
+"Négylábú, egyenáramú, fehér falú, mérsékelt árú, bőkezű, jószívű, nagy kiterjedésű, tiszta vizű; hosszú szempillájú, erős rugójú, éles elméjű, lapos tetejű\nMiért hosszú az Ú, Ű ezekben a szavakban?",
+"category":"toldalékok írása",
+"answer":"Az -ú, -ű, -jú, -jű melléknévképzőket mindig hosszú Ú-val, Ű-vel írjuk.",
+"choices":["Az -ú, -ű, -jú, -jű végződésű igéket mindig hosszú Ú-val, Ű-vel írjuk.","Az -ú, -ű, -jú, -jű melléknévképzőket mindig hosszú Ú-val, Ű-vel írjuk."]
+},
+{"question":
+"A főnevek -tyú, -tyű és -ttyú, -ttyű képzőféle végződésének magánhangzója mindig hosszú:\nfogantyú, sarkantyú, billentyű, töpörtyű, dugattyú, szivattyú, csengettyű, pörgettyű ",
+"category":"toldalékok írása\nIgaz vagy hamis?",
+"answer":"Igaz",
+"choices":["Igaz","Hamis"]
+},
+{"question":
+"A -ból, -ből, a -ról, -ről és a -tól, -től határozóragban az Ó, Ő mindig hosszú.\nMely szavak jó példák erre a szabályra?",
+"category":"toldalékok írása",
+"answer":"szobából, erdőből, házról, tetőről, fától, víztől",
+"choices":["kutyaól, erőd, kidől, erdőt","szobából, erdőből, házról, tetőről, fától, víztől"]
+},
+{"question":
+"A honnan? kérdésre felelő névutók ragszerű -ól, -ől végződését hosszú Ó-val, Ő-vel írjuk.\nMely szavak jó példák erre a szabályra?",
+"category":"toldalékok írása",
+"answer":"alól, elől, felől, mellől",
+"choices":["alól, elől, felől, mellől","eldől, megöl, ajtót"]
 },  
 {"question":
 "T vagy tt?\nAnna a boltban banánt ______",
