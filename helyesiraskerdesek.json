@@ -485,7 +485,7 @@
 "choices":["Igen","Nem"]
 },
 {"question":
-"A ború, bosszú szavak végén levő hosszú Ú az -l képzős formában rövid U-ra vált:\nborul, bosszul.\nIgaz vagy hamis?",
+"A ború, bosszú szavak végén levő hosszú Ú az 'l' képzős formában rövid U-ra vált:\nborul, bosszul.\nIgaz vagy hamis?",
 "category":"szótövek",
 "answer":"Igaz",
 "choices":["Igaz","Hamis"]
