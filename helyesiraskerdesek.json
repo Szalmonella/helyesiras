@@ -23,7 +23,7 @@
 "choices":["j","ly"]
 },
 {"question":
-"J-vel vagy ly-nal írjuk ezeket a szavakat?\nkara_, ola_, tala_",
+"J-vel vagy ly-nal írjuk ezeket a szavakat?\nKara_, ola_, tala_",
 "category":"j/ly",
 "answer":"j",
 "choices":["j","ly"]
@@ -73,14 +73,14 @@
 {"question":
 "A rövid magánhangzókat jelölő hét betűt pont nélkül, illetőleg egy vagy két ponttal írjuk.\n Melyek a rövid magánhangzók?",
 "category":"magánhangzók írása",
-"answer":"a, e, o, u; i, ö, ü",
-"choices":["a, e, o, u; i, ö, ü","á, é, í, ó, ú; ő, ű"]
+"answer":"a, e, o, u, i, ö, ü",
+"choices":["a, e, o, u, i, ö, ü","á, é, í, ó, ú, ő, ű"]
 },
 {"question":
 "A hosszú magánhangzókat jelölő hét betűre egy vagy két vonást teszünk.\n Melyek a hosszú magánhangzók?",
 "category":"magánhangzók írása",
-"answer":"á, é, í, ó, ú; ő, ű",
-"choices":["a, e, o, u; i, ö, ü","á, é, í, ó, ú; ő, ű"]
+"answer":"á, é, í, ó, ú, ő, ű",
+"choices":["a, e, o, u, i, ö, ü","á, é, í, ó, ú, ő, ű"]
 },
 {"question":
 "Mely szavak tartalmaznak csak rövid magánhangzókat?",
