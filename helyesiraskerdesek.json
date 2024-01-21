@@ -431,37 +431,37 @@
 "choices":["dűlt, dűlve, dűlő","düledezik, dülöngél, dülleszt"]
 },
 {"question":
-"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A KÉZ-ből származó szavak mikor váltanak E-re?",
+"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A KÉZ-ből származó szavaknál mikor váltunk E-re?",
 "category":"szótövek",
 "answer":"kezet, kezek, kezes, kezünk",
 "choices":["kézben, kézre, kézi","kezet, kezek, kezes, kezünk"]
 },
 {"question":
-"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A VÍZ-ből származó szavak mikor váltanak I-re?",
+"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A VÍZ-ből származó szavaknál mikor váltunk rövid I-re?",
 "category":"szótövek",
 "answer":"vizet, vizek, vizes, vizünk",
 "choices":["vízben, vízre, vízi","vizet, vizek, vizes, vizünk"]
 },
 {"question":
-"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. Az ÚT-ból származó szavak mikor váltanak U-ra?",
+"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. Az ÚT-ból származó szavaknál mikor váltunk rövid U-ra?",
 "category":"szótövek",
 "answer":"utat, utak, utas, utunk",
 "choices":["útban, útra, úti","utat, utak, utas, utunk"]
 },
 {"question":
-"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A TŰZ-ből származó szavak mikor váltanak Ü-re?",
+"Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A TŰZ-ből származó szavaknál mikor váltunk rövid Ü-re?",
 "category":"szótövek",
 "answer":"tüzet, tüzek, tüzes, tüzünk",
 "choices":["tűzben, tűzre, tűzi","tüzet, tüzek, tüzes, tüzünk"]
 },
 {"question":
-"A szóvégi a és e csak néhány toldalék előtt marad rövid, a legtöbb toldalék előtt á-ra, illetőleg é-re változik. Az ANYA szótőből melyik szó nem vált Á-ra?",
+"A szóvégi A és E csak néhány toldalék előtt marad rövid, a legtöbb toldalék előtt á-ra, illetőleg é-re változik. Az ANYA szótőből melyik szóban nem vált Á-ra az A?",
 "category":"szótövek",
 "answer":"anyai",
 "choices":["anyai","anyátlan","anyával"]
 },
 {"question":
-"A szóvégi a és e csak néhány toldalék előtt marad rövid, a legtöbb toldalék előtt á-ra, illetőleg é-re változik. A ANYA szótőből melyik szó nem vált Á-ra?",
+"A szóvégi A és E csak néhány toldalék előtt marad rövid, a legtöbb toldalék előtt á-ra, illetőleg é-re változik. A LENCSE szótőből melyik szóban nem vált É-re ez E?",
 "category":"szótövek",
 "answer":"lencseféle",
 "choices":["lencseféle","lencsét","lencsével"]
