@@ -359,10 +359,16 @@
 "choices":["fejel","fejjel"]
 },
 {"question":
-"A szavak végén legtöbbször rövid i van.\nMik a kivételek?; Peti, Mari; stb. – Van azonban néhány hosszú í-re végződő szavunk is: sí, nyí, rí, csicsí, gyí, kikirikí",
+"A szavak végén legtöbbször rövid I van.\nMik a kivételek?",
 "category":"szótövek",
-"answer":"",
+"answer":"sí, nyí, rí, csicsí, gyí, kikirikí",
 "choices":["kocsi, kifli, bácsi, néni, kicsi, nini","Peti, Mari","sí, nyí, rí, csicsí, gyí, kikirikí"]
+},
+{"question":
+"Csak néhány szavunk végződik hosszú Í-re. A szavak végén legtöbbször rövid I van.\nMely szavak jó példák a rövid I-re?",
+"category":"szótövek",
+"answer":"kifli, bácsi, kicsi",
+"choices":["kifli, bácsi, kicsi","sí, nyí, rí","csicsí, gyí, kikirikí"]
 },
 {"question":
 "Hosszú ú, ű van a legtöbb főnév végén:\nágyú, borjú, faggyú, fiú, gyanú, háború, kátyú, koszorú, szú, tanú, varjú; betű, fésű, gyepű, gyűrű, gyűszű, mű, seprű.\nIgaz vagy hamis?",
@@ -403,7 +409,7 @@
 {"question":
 "A TÍZ hosszú Í-vel írandó. A tőszó mely változatokban vált rövid I-re?",
 "category":"szótövek",
-"answer":"tized, tizen-",
+"answer":"tized, tizen- (mint tizenegy)",
 "choices":["tized, tizen- (mint tizenegy)","tízet, tízen (tízen voltak)"]
 },
 {"question":
