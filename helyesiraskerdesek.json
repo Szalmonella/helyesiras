@@ -1,558 +1,558 @@
 [{"question":
 "_ukas, _uk, _ukaszt.\nJ-vel vagy Ly-nal írjuk?",
-"category":"j/ly",
+"category":"jly",
 "answer":"Ly",
 "choices":["J","Ly"]
 },
 {"question":
 "J-vel vagy ly-nal\nfo_ik a fo_ó?",
-"category":"j/ly",
+"category":"jly",
 "answer":"ly",
 "choices":["j","ly"]
 },
 {"question":
 "J-vel vagy ly-nal írjuk a következő madarak nevét?\nHarká_, bago_, fogo_",
-"category":"j/ly",
+"category":"jly",
 "answer":"ly",
 "choices":["j","ly"]
 },
 {"question":
 "J-vel vagy ly-nal írjuk ezeket a szavakat?\nÓha_, sóha_",
-"category":"j/ly",
+"category":"jly",
 "answer":"j",
 "choices":["j","ly"]
 },
 {"question":
 "J-vel vagy ly-nal írjuk ezeket a szavakat?\nKara_, ola_, tala_",
-"category":"j/ly",
+"category":"jly",
 "answer":"j",
 "choices":["j","ly"]
 },
 {"question":
 "J-vel vagy ly-nal írjuk?\nBó_a (vízi jelzőeszköz), cser_e, hé_a (madár), per_e (fű)",
-"category":"j/ly",
+"category":"jly",
 "answer":"j",
 "choices":["j","ly"]
 },
 {"question":
 "J-vel vagy ly-nal írjuk?\nHe_ (főnév), mé_, mo_, sú_, sü_",
-"category":"j/ly",
+"category":"jly",
 "answer":"ly",
 "choices":["j","ly"]
 },
 {"question":
 "A névmásokat j-vel vagy ly-nal írjuk?\nI_, i_en, me_, ame_, mi_, mi_en, o_, o_an, ame_ik ",
-"category":"j/ly",
+"category":"jly",
 "answer":"ly",
 "choices":["j","ly"]
 },
 {"question":
 "J-vel vagy ly-nal írjuk?\nMoso_, osztá_, pehe_",
-"category":"j/ly",
+"category":"jly",
 "answer":"ly",
 "choices":["j","ly"]
 },
 {"question":
 "J-vel vagy ly-nal írjuk?\nTe_, va_, sa_t, te_föl, _oghurt",
-"category":"j/ly",
+"category":"jly",
 "answer":"j",
 "choices":["j","ly"]
 },
 {"question":
 "J-vel vagy ly-nal írjuk?\nAkadá_, tava_, tartá_",
-"category":"j/ly",
+"category":"jly",
 "answer":"ly",
 "choices":["j","ly"]
 },
 {"question":
 "J-vel vagy ly-nal írjuk?\nFe_, szá_, ",
-"category":"j/ly",
+"category":"jly",
 "answer":"j",
 "choices":["j","ly"]
 },
 {"question":
 "A rövid magánhangzókat jelölő hét betűt pont nélkül, illetőleg egy vagy két ponttal írjuk.\n Melyek a rövid magánhangzók?",
-"category":"magánhangzók írása",
+"category":"mghrs",
 "answer":"a, e, o, u, i, ö, ü",
 "choices":["a, e, o, u, i, ö, ü","á, é, í, ó, ú, ő, ű"]
 },
 {"question":
 "A hosszú magánhangzókat jelölő hét betűre egy vagy két vonást teszünk.\n Melyek a hosszú magánhangzók?",
-"category":"magánhangzók írása",
+"category":"mghrs",
 "answer":"á, é, í, ó, ú, ő, ű",
 "choices":["a, e, o, u, i, ö, ü","á, é, í, ó, ú, ő, ű"]
 },
 {"question":
 "Mely szavak tartalmaznak csak rövid magánhangzókat?",
-"category":"magánhangzók írása",
+"category":"mghrs",
 "answer":"puha, tiszta, göndör",
 "choices":["puha, tiszta, göndör","puszta, pálya, korong"]
 },
 {"question":
 "Mely szavak tartalmaznak csak hosszú magánhangzókat?",
-"category":"magánhangzók írása",
+"category":"mghrs",
 "answer":"bőr, kémény, hús",
 "choices":["vég, bőrönd, bélyeg","bőr, kémény, hús"]
 },
 {"question":
 "Mely szavak tartalmaznak csak rövid magánhangzókat?",
-"category":"magánhangzók írása",
+"category":"mghrs",
 "answer":"ötöt, hatot, hetet, nyolcat",
 "choices":["egyet, kettőt, hármat, négyet","ötöt, hatot, hetet, nyolcat"]
 },
 {"question":
 "Mely szavak tartalmaznak rövid és hosszú magánhangzókat vegyesen?",
-"category":"magánhangzók írása",
+"category":"mghrs",
 "answer":"rétes, mézes, méreg",
 "choices":["pörög, forog, dörög","rétes, mézes, méreg","kérő, szőlő, fényév"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEz a feladat ______ dió.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"kemény",
 "choices":["kemény","kémény"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEz a ______ bedugult.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"kémény",
 "choices":["kemény","kémény"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nA ___ oldalon van a kormány.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"bal",
 "choices":["bal","bál"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nA ___ nagyon puccos.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"bál",
 "choices":["bal","bál"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nÚj költeményem címe: ___ a szerelemhez.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"Óda",
 "choices":["Oda","Óda"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\n___ kell mennem.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"Oda",
 "choices":["Oda","Óda"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEz a néni egy kicsit _____, már 85 éves.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"koros",
 "choices":["koros","kóros"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEz a viselkedés _____, vagyis nem egészséges.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"kóros",
 "choices":["koros","kóros"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEz az ember ____ rabló is lehet.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"akár",
 "choices":["akar","akár"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nMit ____ ez a furcsa ember?",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"akar",
 "choices":["akar","akár"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\n__ is meghívták a szülinapra",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"Őt",
 "choices":["Öt","Őt"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\n__ kört futottak.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"Öt",
 "choices":["Öt","Őt"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nA szakember levelet __.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"írt",
 "choices":["irt","írt"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nA szakember poloskát __.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"irt",
 "choices":["irt","írt"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEz a _____ nagyon aranyos.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"veréb",
 "choices":["veréb","véreb"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEz a _____ nagyon harapós.",
-"category":"rövid/hosszú magánhangzó",
+"category":"rvhmgh",
 "answer":"véreb",
 "choices":["veréb","véreb"]
 },
 {"question":
 "Melyek az egyjegyű mássalhangzók?",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z",
 "choices":["b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z"," cs, dz, gy, ly, ny, sz, ty, zs", "dzs"]
 },
 {"question":
 "Melyek a kétjegyű mássalhangzók?",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"cs, dz, gy, ly, ny, sz, ty, zs",
 "choices":["b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z","cs, dz, gy, ly, ny, sz, ty, zs", "dzs"]
 },
 {"question":
 "Melyek a háromjegyű mássalhangzók?",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"dzs",
 "choices":["b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z","cs, dz, gy, ly, ny, sz, ty, zs", "dzs"]
 },
 {"question":
 "Mely szavak tartalmaznak csak egyjegyű mássalhangzókat?",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"ménes, lovas, fehér",
 "choices":["ménes, lovas, fehér","csokoládé, egészség, szépség", "lándzsa, dzsem, dzsungel"]
 },
 {"question":
 "Mely szavak tartalmaznak csak kétjegyű mássalhangzókat?",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"szesz, szösz",
 "choices":["sós, kék","szesz, szösz"]
 },
 {"question":
 "Mely szavak tartalmaznak háromjegyű mássalhangzót?",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"lándzsa, dzsem, dzsungel",
 "choices":["majom, bohóc, lekvár","csoki, fényes, súlyos", "lándzsa, dzsem, dzsungel"]
 },
 {"question":
 "Miért van az AD és HOZ szavak végén csak 1 darab egyjegyű mássalhangzó az alábbi mondatokban?\nAd egy almát. Hoz egy labdát.)",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"Mert kijelentő módban vannak az igék.",
 "choices":["Mert kijelentő módban vannak az igék.","Mert felszólító módban vannak az igék."]
 },
 {"question":
 "Miért van az ADD és HOZZ szavak végén dupla egyjegyű mássalhangzó az alábbi mondatokban?\nAdd ide az almát! Hozz egy labdát!)",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"Mert felszólító módban vannak az igék.",
 "choices":["Mert kijelentő módban vannak az igék.","Mert felszólító módban vannak az igék."]
 },
 {"question":
 "A mássalhangzók hosszúságát betűkettőzéssel jelöljük. – Az egyjegyűeket kétszer írjuk le. Hogyan is?",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"bb, cc, dd, ff, gg, hh, jj, kk, ll, mm, nn, pp, rr, ss, tt, vv, zz",
 "choices":["b, c, d, f, g, h, j, k, l, m, n, p, r, s, t, v, z","bb, cc, dd, ff, gg, hh, jj, kk, ll, mm, nn, pp, rr, ss, tt, vv, zz"]
 },
 {"question":
 "A mássalhangzók hosszúságát betűkettőzéssel jelöljük. – A többjegyűeket az összetett szavak határán kettőzzük. Hogyan is?",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"jegygyűrű, fénynyaláb, díszszemle",
 "choices":["kellett, kattan, jobban","jegygyűrű, fénynyaláb, díszszemle"]
 },
 {"question":
 "Miért is írjuk betűkettőzéssel ezeket a kétjegyű mássalhangzókat?\njegygyűrű, fénynyaláb, díszszemle",
-"category":"mássalhangzók írása",
+"category":"mshrs",
 "answer":"Azért, mert ezek összetett szavak.",
 "choices":["Azért, mert ezek összetett szavak.","Azért, mert ezek a szavak egy szótagból állnak."]
 },
 {"question":
 "A többjegyű mássalhangzókat egyszerűsítve kettőzzük\nMelyik példa mutatja ezt?",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"asszonnyal",
 "choices":["asszonnyal","asz-szony-nyal (elválasztás)"]
 },
 {"question":
 "Melyik szóban nincs hosszú mássalhangzó?",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"tolat",
 "choices":["vessző","tollas","tolat"]
 },
 {"question":
 "Melyik szóban nincs hosszú mássalhangzó?",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"csendül",
 "choices":["pottyan","csendül","loccsan","robban"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEgy _____ úszik a vízben",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"hal",
 "choices":["hal","hall"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEz az ember nem _____ jól, beszélj hozzá hangosan!",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"hall",
 "choices":["hal","hall"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\n_____ a parton várunk rád.",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"Lenn",
 "choices":["Len","Lenn"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nA kisvakond kedvenc növénye a _____.",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"len",
 "choices":["len","lenn"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nTegnap _____ az eső.",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"esett",
 "choices":["eset","esett"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nÍgy történt az _____.",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"eset",
 "choices":["eset","esett"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nHova _____ a barátod?",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"megy",
 "choices":["megy","meggy"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nÉrik a _____ a fán.",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"meggy",
 "choices":["megy","meggy"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nSzeretsz _____ aludni?",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"hason",
 "choices":["hason","hasson"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nMegvártuk, hogy a gyógyszer _____.",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"hasson",
 "choices":["hason","hasson"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEz a focista mindig gólt _____.",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"fejel",
 "choices":["fejel","fejjel"]
 },
 {"question":
 "Melyik szóval egészítenéd ki a mondatot?\nEz a focista mindig _____ talál be a kapuba.",
-"category":"rövid/hosszú mássalhangzó",
+"category":"rvhmsh",
 "answer":"fejjel",
 "choices":["fejel","fejjel"]
 },
 {"question":
 "A szavak végén legtöbbször rövid I van.\nMik a kivételek?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"sí, nyí, rí, csicsí, gyí, kikirikí",
 "choices":["kocsi, kifli, bácsi, néni, kicsi, nini","Peti, Mari","sí, nyí, rí, csicsí, gyí, kikirikí"]
 },
 {"question":
 "Csak néhány szavunk végződik hosszú Í-re. A szavak végén legtöbbször rövid I van.\nMely szavak jó példák a rövid I-re?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"kifli, bácsi, kicsi",
 "choices":["kifli, bácsi, kicsi","sí, nyí, rí","csicsí, gyí, kikirikí"]
 },
 {"question":
 "Hosszú ú, ű van a legtöbb főnév végén:\nágyú, borjú, faggyú, fiú, gyanú, háború, kátyú, koszorú, szú, tanú, varjú; betű, fésű, gyepű, gyűrű, gyűszű, mű, seprű.\nIgaz vagy hamis?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"Igaz",
 "choices":["Igaz","Hamis"]
 },
 {"question":
 "Hosszú ú, ű van a legtöbb főnév végén, de vannak kivételek:\nadu, alku, áru, bábu, batyu, daru, falu, gyalu, hamu, hindu, kapu, lapu, saru, satu, szaru, zsalu,\nbürü, eskü, menü, revü, ürü.\nIgaz vagy hamis?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"Igaz",
 "choices":["Igaz","Hamis"]
 },
 {"question":
 "A melléknevek végén mindig hosszú ú, ű van:\ndomború, homorú, hosszú, savanyú, szomorú; gömbölyű, gyönyörű, könnyű, nagyszerű, szörnyű.\nIgaz vagy hamis?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"Igaz",
 "choices":["Igaz","Hamis"]
 },
 {"question":
 "Vannak olyan szavaink, amelyeket kétféle alakban használunk, de ugyanazt jelentik.\nMelyik a kivétel?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"őrül - örül",
 "choices":["csepeg - csöpög","seprű - söprű","őrül - örül"]
 },
 {"question":
 "Vannak olyan szavaink, amelyeket kétféle alakban használunk, de ugyanazt jelentik.\nMelyik a kivétel?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"kerek - körök",
 "choices":["hova - hová","kerek - körök","lány - leány","gyerek - gyermek"]
 },
 {"question":
 "A ZSÍR hosszú Í-vel írandó. A tőszó melyik változatában vált rövid I-re?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"zsiradék",
 "choices":["zsíros","zsiradék", "zsírt"]
 },
 {"question":
 "A TÍZ hosszú Í-vel írandó. A tőszó mely változatokban vált rövid I-re?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"tized, tizen- (mint tizenegy)",
 "choices":["tized, tizen- (mint tizenegy)","tízet, tízen (tízen voltak)"]
 },
 {"question":
 "A HÚSZ hosszú Ú-val írandó. A tőszó mely változatokban vált rövid U-ra?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"huszadik, huszon-",
 "choices":["húszat, húszas","huszadik, huszon-"]
 },
 {"question":
 "Az ÍR szó hosszú Í-vel írandó. A tőszó mely változatokban vált rövid I-re?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"iroda, irodalom, irat (főnév, mint ügyirat)",
 "choices":["iroda, irodalom, irat (főnév, mint ügyirat)", "írás, írat (ige, mint leíratja a szavakat)"]
 },
 {"question":
 "A BÚJ szó hosszú Ú-val írandó. A tőszó melyik változatokban vált rövid U-ra?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"bujkál, bujdosó",
 "choices":["bújik, bújjon","bújócska, bújtat","bujkál, bujdosó"]
 },
 {"question":
 "A DŰL szó hosszú Ű-vel írandó. A tőszó melyik változatokban vált rövid Ü-re?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"düledezik, dülöngél, dülleszt",
 "choices":["dűlt, dűlve, dűlő","düledezik, dülöngél, dülleszt"]
 },
 {"question":
 "Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A KÉZ-ből származó szavaknál mikor váltunk E-re?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"kezet, kezek, kezes, kezünk",
 "choices":["kézben, kézre, kézi","kezet, kezek, kezes, kezünk"]
 },
 {"question":
 "Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A VÍZ-ből származó szavaknál mikor váltunk rövid I-re?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"vizet, vizek, vizes, vizünk",
 "choices":["vízben, vízre, vízi","vizet, vizek, vizes, vizünk"]
 },
 {"question":
 "Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. Az ÚT-ból származó szavaknál mikor váltunk rövid U-ra?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"utat, utak, utas, utunk",
 "choices":["útban, útra, úti","utat, utak, utas, utunk"]
 },
 {"question":
 "Vannak szabályos í – i, ú – u, ű – ü váltakozást mutató főnevek. Írásukat megkönnyíti a nyár – nyarat, kéz – kezet típusú szavakkal való összehasonlításuk. A TŰZ-ből származó szavaknál mikor váltunk rövid Ü-re?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"tüzet, tüzek, tüzes, tüzünk",
 "choices":["tűzben, tűzre, tűzi","tüzet, tüzek, tüzes, tüzünk"]
 },
 {"question":
 "A szóvégi A és E csak néhány toldalék előtt marad rövid, a legtöbb toldalék előtt á-ra, illetőleg é-re változik. Az ANYA szótőből melyik szóban nem vált Á-ra az A?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"anyai",
 "choices":["anyai","anyátlan","anyával"]
 },
 {"question":
 "A szóvégi A és E csak néhány toldalék előtt marad rövid, a legtöbb toldalék előtt á-ra, illetőleg é-re változik. A LENCSE szótőből melyik szóban nem vált É-re ez E?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"lencseféle",
 "choices":["lencseféle","lencsét","lencsével"]
 },
 {"question":
 "Varjúk – varjak,\nzászlója – zászlaja,\nerdője – erdeje\nA szavak mindkét alakja helyes?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"Igen",
 "choices":["Igen","Nem"]
 },
 {"question":
 "Varjúk – varjak,\nzászlója – zászlaja,\nerdője – erdeje\nA szavak mindkét alakja helyes?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"Igen",
 "choices":["Igen","Nem"]
 },
 {"question":
 "lét – levet,\nszók – szavak,\nfaluk – falvak,\ntetűk – tetvek\nA szavak mindkét alakja helyes?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"Igen",
 "choices":["Igen","Nem"]
 },
 {"question":
 "A ború, bosszú szavak végén levő hosszú Ú az 'l' képzős formában rövid U-ra vált:\nborul, bosszul.\nIgaz vagy hamis?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"Igaz",
 "choices":["Igaz","Hamis"]
 },
 {"question":
 "A csepű, derű, fésű, hegedű, köpű, köszörű szavak végén levő hosszú Ű az -l képzős formában rövid Ü-ra vált:\ncsepül, derül, fésül, hegedül, köpül, köszörül.\nIgaz vagy hamis?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"Igaz",
 "choices":["Igaz","Hamis"]
 },
 {"question":
 "A metsz, a látszik és a tetszik ige felszólító módú alakjait – a kétféle kiejtés miatt – vagy tssz, vagy ss betűkapcsolattal írjuk:\nmetssze és messe, látsszék és lássék, tetsszem és tessem.\nIgaz vagy hamis?",
-"category":"szótövek",
+"category":"sztvk",
 "answer":"Igaz",
 "choices":["Igaz","Hamis"]
 },
 {"question":
 "Épít, építmény, tanít, tanító, buzdít, buzdítás, mozdít, mozdítva, állandósít, állandósítani\nMiért hosszú az Í ezekben a szavakban?",
-"category":"toldalékok írása",
+"category":"toldalek",
 "answer":"Az -ít, a -dít és a -sít igeképzőket mindig hosszú Í-vel írjuk.",
 "choices":["Az -ít, a -dít és a -sít igeképzőket mindig hosszú Í-vel írjuk.","Az -ít, a -dít és a -sít főneveket mindig hosszú Í-vel írjuk."]
 },
 {"question":
 "I-vel vagy Í-vel írjuk?\nVis_t, lend_t, ord_t",
-"category":"toldalékok írása",
+"category":"toldalek",
 "answer":"Í",
 "choices":["I","Í"]
 },
 {"question":
 "Négylábú, egyenáramú, fehér falú, mérsékelt árú, bőkezű, jószívű, nagy kiterjedésű, tiszta vizű; hosszú szempillájú, erős rugójú, éles elméjű, lapos tetejű\nMiért hosszú az Ú, Ű ezekben a szavakban?",
-"category":"toldalékok írása",
+"category":"toldalek",
 "answer":"Az -ú, -ű, -jú, -jű melléknévképzőket mindig hosszú Ú-val, Ű-vel írjuk.",
 "choices":["Az -ú, -ű, -jú, -jű végződésű igéket mindig hosszú Ú-val, Ű-vel írjuk.","Az -ú, -ű, -jú, -jű melléknévképzőket mindig hosszú Ú-val, Ű-vel írjuk."]
 },
 {"question":
-"A főnevek -tyú, -tyű és -ttyú, -ttyű képzőféle végződésének magánhangzója mindig hosszú:\nfogantyú, sarkantyú, billentyű, töpörtyű, dugattyú, szivattyú, csengettyű, pörgettyű ",
-"category":"toldalékok írása\nIgaz vagy hamis?",
+"A főnevek -tyú, -tyű és -ttyú, -ttyű képzőféle végződésének magánhangzója mindig hosszú:\nfogantyú, sarkantyú, billentyű, töpörtyű, dugattyú, szivattyú, csengettyű, pörgettyű\nIgaz vagy hamis?",
+"category":"toldalek",
 "answer":"Igaz",
 "choices":["Igaz","Hamis"]
 },
 {"question":
 "A -ból, -ből, a -ról, -ről és a -tól, -től határozóragban az Ó, Ő mindig hosszú.\nMely szavak jó példák erre a szabályra?",
-"category":"toldalékok írása",
+"category":"toldalek",
 "answer":"szobából, erdőből, házról, tetőről, fától, víztől",
 "choices":["kutyaól, erőd, kidől, erdőt","szobából, erdőből, házról, tetőről, fától, víztől"]
 },
 {"question":
 "A honnan? kérdésre felelő névutók ragszerű -ól, -ől végződését hosszú Ó-val, Ő-vel írjuk.\nMely szavak jó példák erre a szabályra?",
-"category":"toldalékok írása",
+"category":"toldalek",
 "answer":"alól, elől, felől, mellől",
 "choices":["alól, elől, felől, mellől","eldől, megöl, ajtót"]
 },  
 {"question":
 "T vagy tt?\nAnna a boltban banánt ______",
-"category":"t/tt",
+"category":"ttt",
 "answer":"vett",
 "choices":["vet","vett"]
 },
 {"question":
 "T vagy tt?\nAnna magot _____ a földbe.",
-"category":"t/tt",
+"category":"ttt",
 "answer":"vet",
 "choices":["vet","vett"]
 }  
