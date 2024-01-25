@@ -48,5 +48,22 @@
 {"question":" Se lába, se szárnya,/nmég sincs sebesebb nála. ","answer":"idő","help":"Gyorsan vagy lassan telik","category":"Vers"},
 {"question":"Fehér pokróc egész földön,/nnem is szövik, az égből jön. ","answer":"hó","help":"Télen van","category":"Vers"},
 {"question":"Nincsen keze, se lába/nde a kaput kitárja. ","answer":"szél","help":"Időjárással kapcsolatos","category":"Vers"},
-{"question":"Varázsbotja nincsen neki,/nde a tájat eltünteti./nMikor leszáll, azt sem tudod,/nmerre van a pisze orrod. ","answer":"köd","help":"Időjárással kapcsolatos","category":"Vers"}
+{"question":"Varázsbotja nincsen neki,/nde a tájat eltünteti./nMikor leszáll, azt sem tudod,/nmerre van a pisze orrod. ","answer":"köd","help":"Időjárással kapcsolatos","category":"Vers"},
+{"question":"Szőrmebunda – zöld selyem,/nKint terem a réteken./nFöldanyánk öltözteti,/nTehén, kecske, lelegeli. ","answer":"fű","help":"-","category":"Vers"},
+{"question":"Kertben élek, illatozom,/nén vagyok a szépek szépe/nAki letép, jól vigyázzon,/ntövis karcol tenyerébe!","answer":"rózsa","help":"-","category":"Vers"},
+{"question":"Két kezemmel füled fogom,/ns ott csücsülök az orrodon. ","answer":"szemüveg","help":"Használati tárgy","category":"Vers"},
+{"question":" Foga van és mégsem eszik.","answer":"fésű","help":"Használati tárgy","category":"Vers"},
+{"question":" Négy lába van, mégse jár,/nkonyhában, szobában áll. ","answer":"asztal","help":"Használati tárgy","category":"Vers"},
+{"question":"Ereiben nem kering vér,/nMikor sárgul, viszi a szél,/nDe ha papír, postás hozza,/nHogy kis ládádba bedobja. ","answer":"levél","help":"Két jelentésű szó","category":"Vers"},
+{"question":"Szép bundája, lompos farka,/nvigyázva jár, ravasz fajta.","answer":"róka","help":"Egy állat","category":"Vers"},
+{"question":"Szürke színű a bundája,/nhosszú, vékony farkincája,/nfinom sajt a vacsorája,/nravasz macska les reája.","answer":"egér","help":"Egy állat","category":"Vers"},
+{"question":"Veheted a boltban,/nveheted az utcán,/nveheted vásárban,/nveheted a pusztán,/nveheted napközben,/nés veheted este,/nde nem fizetsz érte/nsoha egy fillért se.","answer":"levegő","help":"Mindenhol ott van","category":"Vers"},
+{"question":"Zöld istállóban/nfekete lovak/npiros szénát esznek. ","answer":"görögdinnye","help":"Egy gyümölcs","category":"Vers"},
+{"question":" Lábat rajtam ne keress, léptem mégis oly sebes./nÉjjel nappal szaladok, s mégis ágyban maradok. ","answer":"folyó","help":"Természettel kapcsolatos","category":"Vers"},
+{"question":"Lábam egy van, bordám több van,/nhelyem itt van, helyem ott van./nNapos időn otthon hálok,/nborús időn utcán járok.","answer":"esernyő","help":"Használati tárgy","category":"Vers"},
+{"question":"Nem látok, mégis egész évben ások. ","answer":"vakond","help":"Egy állat","category":"Vers"},
+{"question":"A szorgalomnak mintaképe,/nSzálldogál bibéről bibére,/nŐneki ez sosem nehéz,/nKaptárokban gyűlik a méz!","answer":"méh","help":"Egy állat","category":"Vers"},
+{"question":"Apró, bordó, gömbölyű,/nmedvének finom nedű./nNyers, lekvár vagy szörpike,/nfogyassz sokat belőle!","answer":"málna","help":"Egy gyümölcs","category":"Vers"},
+{"question":"Csak becsukott szemmel láthatjuk, mi az?","answer":"álom","help":"Általában éjszaka","category":"Vers"},
+{"question":"Lába van, de mégse jár,/nvíz felett visz, nem madár./nNem rab, mégis láncot hord,/ns minden utat összetold.","answer":"híd","help":"-","category":"Vers"}  
 ]
