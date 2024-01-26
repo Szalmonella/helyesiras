@@ -546,13 +546,13 @@
 },  
 {"question":
 "T vagy tt?\nAnna a boltban banánt ______",
-"category":"ttt",
+"category":"rvhmsh",
 "answer":"vett",
 "choices":["vet","vett"]
 },
 {"question":
 "T vagy tt?\nAnna magot _____ a földbe.",
-"category":"ttt",
+"category":"rvhmsh",
 "answer":"vet",
 "choices":["vet","vett"]
 }  
